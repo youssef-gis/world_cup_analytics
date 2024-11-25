@@ -54,7 +54,6 @@ passes_to_shots = passes_times.apply(lambda x: in_range(shots_start, x, shots_ti
 is_corner = [x[1].sub_type_name == "Corner" for x in morocco_passes.iterrows()]
 
 danger_passes_df = morocco_passes[np.logical_and(passes_to_shots, np.logical_not(is_corner))]
-print(len(danger_passes_df))
 
 #count danger passes
 count_passes = danger_passes_df.groupby(['player_name']).x.count()
