@@ -1,0 +1,617 @@
+names,ages,minutes
+Luis Abram,25,560
+Marcos Acuña,29,"2,260"
+Martin Agirregabiria,25,"1,616"
+Julen Agirrezabala,20,360
+Sergio Agüero,33,151
+Álvaro Aguirre,21,9
+Joseph Aidoo,25,"2,637"
+Carlos Akapo,28,"1,844"
+Ilias Akhomach,17,124
+Paul Akouokou,23,516
+David Alaba,29,"2,642"
+Tomás Alarcón,22,"1,425"
+Jordi Alba,32,"2,644"
+Raúl Albiol,35,"2,465"
+Paco Alcácer,27,787
+Rubén Alcaraz,30,"1,105"
+Omar Alderete,24,"2,403"
+Iván Alejo,26,"1,065"
+Carles Aleñá,23,"2,320"
+Hugo Álvarez,18,11
+Yeray Álvarez,26,"1,860"
+Dani Alves,38,"1,098"
+Emmanuel Amankwaa,19,79
+Amath,25,884
+Florin Andone,28,176
+Marcos André,24,973
+José Ángel,31,"1,083"
+Josep Antoni,21,58
+Mauro Arambarri,25,"2,663"
+Néstor Araujo,29,"2,617"
+Ronald Araújo,22,"2,272"
+Jesús Areso,22,188
+Matias Arezo,18,162
+Santiago Arias,29,440
+Santiago Arzamendia,23,469
+Sergio Asenjo,32,540
+Alejandro Asensio,20,12
+Marco Asensio,25,"1,731"
+Iago Aspas,33,"3,087"
+Pierre-Emerick Aubameyang,32,"1,082"
+Ludwig Augustinsson,27,793
+Serge Aurier,28,"1,010"
+Ezequiel Ávila,27,"1,870"
+Iddrisu Baba,25,"1,934"
+Carlos Bacca,34,513
+Édgar Badía,29,"2,160"
+Miguel Baeza,21,2
+Alejandro Balde,17,188
+Gareth Bale,32,280
+Mikel Balenziaga,33,"2,027"
+Iván Balliu,29,"3,147"
+Barbero,22,21
+Barcia,20,75
+Enis Bardhi,26,"1,701"
+Keidi Bare,23,"1,481"
+Kike Barja,24,865
+Antonio Barragán,34,"1,020"
+Ander Barrenetxea,19,547
+Marc Bartra,30,"1,993"
+Álvaro Bastida,17,197
+Rodrigo Battaglia,30,"1,179"
+Jon Bautista,26,45
+Bebé,31,867
+Héctor Bellerín,26,"1,979"
+Fran Beltrán,22,"2,597"
+Darío Benedetto,31,590
+Iker Benito,18,118
+Pedro Benito,21,31
+Karim Benzema,33,"2,593"
+Yuri Berchiche,31,"1,015"
+Álex Berenguer,26,"2,168"
+Pedro Bigas,30,"1,551"
+Antonio Blanco,21,31
+Yassine Bounou,30,"2,790"
+Lucas Boyé,25,"1,713"
+Martin Braithwaite,30,235
+Darko Brašanac,29,"2,405"
+Claudio Bravo,38,"1,456"
+Yan Brice,23,343
+Ante Budimir,30,"1,738"
+Sergio Busquets,33,"3,198"
+Adrián Butzke,22,1
+Erick Cabaco,26,403
+Leandro Cabrera,30,"3,330"
+Martín Cáceres,34,663
+Cala,31,947
+Calderón,21,65
+Fernando Calero,25,"1,090"
+Víctor Camarasa,27,108
+Eduardo Camavinga,18,"1,236"
+José Campaña,28,"1,422"
+Sergio Canales,30,"2,791"
+Álex Cantero,21,610
+Ander Capa,29,4
+Étienne Capoue,33,"2,290"
+Isaac Carcelen,28,"1,544"
+Cárdenas,24,"2,160"
+Carlo,20,7
+Diego Carlos,28,"2,957"
+Carmona,19,24
+Yannick Carrasco,27,"2,583"
+Guido Carrillo,30,"1,168"
+Dani Carvajal,29,"1,551"
+William Carvalho,29,"1,805"
+Casemiro,29,"2,569"
+Kiko Casilla,34,"1,260"
+Catena,26,"3,240"
+Dani Ceballos,24,276
+Franco Cervi,27,"1,801"
+Chapela,22,398
+Chema,29,45
+Denis Cheryshev,30,563
+Samuel Chukwueze,22,"1,333"
+Víctor Chust,21,"1,830"
+Jasper Cillessen,32,"1,457"
+Pathé Ciss,27,"1,097"
+Carlos Clerc,29,"1,514"
+Coke,34,118
+Álex Collado,22,"1,020"
+Eray Cömert,23,408
+Santi Comesaña,24,"2,682"
+Diego Conde,22,6
+Francis Coquelin,30,830
+Jesús Corona,28,"1,157"
+Ángel Correa,26,"1,856"
+Thierry Correia,22,"1,414"
+Hélder Costa,27,"1,118"
+Jaume Costa,33,"1,828"
+Thibaut Courtois,29,"3,240"
+Philippe Coutinho,29,503
+Cristo,21,17
+Juan Cruz,29,"1,934"
+Marc Cucurella,23,23
+Jorge Cuenca,21,"2,683"
+Matheus Cunha,22,"1,063"
+Arnaut Danjuma,24,"1,472"
+Sergi Darder,27,"3,125"
+Rodrigo De Paul,27,"2,151"
+Thomas Delaney,29,"1,549"
+Ousmane Dembélé,24,"1,409"
+Yusuf Demir,18,192
+Sergiño Dest,20,"1,512"
+Boulaye Dia,24,"1,269"
+Mouctar Diakhaby,24,"1,948"
+Javier Díaz,24,90
+Víctor Díaz,33,"1,500"
+Landry Dimata,23,541
+Stole Dimitrievski,27,"2,772"
+Matías Dituro,34,"3,420"
+Djené,29,"3,115"
+Naïs Djouahra,21,219
+Marko Dmitrović,29,540
+Jaume Doménech,30,343
+Carlos Dominguez,20,344
+Mario Dominguez,17,25
+John Donald,20,180
+Domingos Duarte,26,"1,687"
+Óscar Duarte,32,"1,773"
+Rubén Duarte,25,"2,621"
+Unai Dufur,22,90
+Hugo Duro,21,12
+Hugo Duro,21,"1,834"
+Aritz Elustondo,27,"2,105"
+Adri Embarba,29,"1,986"
+Emerson,22,91
+Youssef En-Nesyri,24,"1,277"
+Gonzalo Escalante,28,"1,300"
+Aarón Escandell,25,284
+Sergio Escudero,31,"1,434"
+Alfonso Espino,29,"3,329"
+Estanis,17,11
+Pervis Estupiñán,23,"1,575"
+Abde Ezzalzouli,19,580
+Radamel Falcao,35,838
+Fali,27,"1,803"
+Omar Faraj,19,4
+Ansu Fati,18,336
+Aleix Febas,25,117
+Peter Federico,19,27
+Nabil Fekir,28,"2,794"
+Felipe,32,"1,504"
+João Félix,21,"1,263"
+Aitor Fernández,30,"1,166"
+Álex Fernández,28,"2,051"
+Fernando,34,"1,850"
+Fidel,31,"2,261"
+José Fontán,21,276
+Dimitri Foulquier,28,180
+Dimitri Foulquier,28,"2,342"
+Juan Foyth,23,"1,924"
+Enric Franquesa,24,625
+Jorge de,24,"1,760"
+Javi Galán,26,"3,298"
+Iñigo Ruiz de,27,"1,378"
+Thiago Galhardo,32,"1,148"
+Álvaro García,28,"2,998"
+Dani García,31,"2,177"
+David García,27,"3,105"
+Eric García,20,"2,039"
+Fran Garcia,21,"3,025"
+Joan García,20,108
+Manu García,23,"1,077"
+Raúl García,35,"1,802"
+Rubén García,28,"2,375"
+Saúl García,26,4
+Unai García,29,"1,408"
+Mario Gaspar,30,623
+Gavi,16,"2,316"
+Bryan Gil,20,753
+Óscar Gil,24,"1,688"
+Mario Gila,20,25
+Dani Gómez,23,"1,063"
+Maxi Gómez,24,"1,956"
+Moi Gómez,27,"1,286"
+Papu Gómez,33,"1,784"
+Sergi Gómez,29,"2,720"
+Victor Gomez,21,4
+Maxime Gonalons,32,"1,550"
+Diego González,26,"1,793"
+Édgar González,24,"1,464"
+Giovanni González,26,365
+Nicolás González,19,"1,114"
+Roberto González,20,135
+Gori,19,9
+Andoni Gorosabel,24,"2,289"
+Jaume Grau,24,3
+Dominik Greif,24,90
+Clément Grenier,30,60
+Antoine Griezmann,30,263
+Antoine Griezmann,30,"1,695"
+Andrés Guardado,34,"1,393"
+Sergi Guardiola,30,"1,710"
+Nemanja Gudelj,29,"1,046"
+Gonçalo Guedes,24,"2,606"
+Ander Guevara,24,867
+John Guidetti,29,279
+Hugo Guillamón,21,"2,361"
+Gerard Gumbau,26,"1,890"
+Jon Guridi,26,206
+Raúl Guti,24,"1,627"
+Marcos Mauro López,30,136
+Miguel Gutiérrez,20,260
+Munir El,25,474
+Varazdat Haroyan,28,"1,437"
+Eden Hazard,30,717
+Kike Hermoso,21,90
+Mario Hermoso,26,"1,865"
+Aridane Hernández,32,"1,159"
+Luis Hernández,32,"1,366"
+Mario Hernández,22,395
+Héctor Herrera,31,859
+Sergio Herrera,28,"3,240"
+Yangel Herrera,23,"1,645"
+Matthew Hoppe,20,131
+Robert Ibáñez,28,93
+Vicente Iborra,33,"1,034"
+Oussama Idrissi,25,127
+Oussama Idrissi,25,902
+Iglesias,23,719
+Borja Iglesias,28,"1,573"
+Asier Illarramendi,31,374
+Nikita Iosifov,20,1
+Alexander Isak,21,"2,140"
+Isco,29,331
+Nicolas Jackson,20,165
+Jakub Jankto,25,587
+Adnan Januzaj,26,"1,625"
+Jason,27,678
+Jason,27,75
+Luis Javier,23,"2,844"
+Álvaro Jiménez,26,234
+Joaquín,40,471
+Jofre,20,20
+Frenkie de,24,"2,476"
+Luuk de,30,654
+Joan Jordán,27,"2,514"
+Josan,31,"1,211"
+Willian José,29,"1,604"
+Joselu,31,"3,122"
+Josema,25,183
+Luka Jović,23,369
+Miguel Juan,25,70
+José Juan,21,201
+Juanmi,28,"2,131"
+Lago Junior,30,177
+Vinicius Júnior,21,"2,690"
+Ferran Jutglà,22,301
+Jens Jønsson,28,"1,303"
+Lee Kang-in,20,"1,411"
+Kiké,31,"1,862"
+Koba Koindredi,19,181
+Koke,29,"2,508"
+Luca Koleosho,16,1
+Geoffrey Kondogbia,28,"1,882"
+Jules Koundé,22,"2,736"
+Toni Kroos,31,"2,103"
+Takefusa Kubo,20,"1,605"
+Víctor Laguardia,31,"3,042"
+Diego Lainez,21,140
+Érik Lamela,29,"1,015"
+Juanmi Latasa,20,9
+Toni Lato,23,590
+Robin Le Normand,24,"3,330"
+Jeremías Ledesma,28,"3,420"
+Wu Lei,29,474
+Florian Lejeune,30,"2,699"
+Iñigo Lekue,28,"1,925"
+Thomas Lemar,25,"1,440"
+Ruben Lendinez,18,137
+Clément Lenglet,26,826
+Javier Llabrés,18,132
+Marcos Llorente,26,"2,447"
+Giovani Lo,25,994
+Julen Lobete,20,284
+Renan Lodi,23,"1,181"
+David López,31,743
+Diego López,39,"3,177"
+Javi López,19,462
+Unai López,25,"1,160"
+Mamadou Loum,24,"2,312"
+Anthony Lozano,28,"1,672"
+Florentino Luís,21,992
+José Luis,26,"1,871"
+José Luis,34,"2,719"
+Luismi,20,13
+Andriy Lunin,22,180
+Darwin Machís,28,"1,376"
+Pablo Maffeo,24,"2,945"
+Nemanja Maksimović,26,"2,936"
+Hugo Mallo,30,"1,826"
+Mickael Malsa,25,"1,143"
+Giorgi Mamardashvili,20,"1,620"
+Reinildo Mandava,27,"1,298"
+Aïssa Mandi,29,"1,375"
+Nikola Maraš,25,"1,044"
+Marcelo,33,525
+Iván Marcone,31,809
+Óscar de Marcos,32,"1,679"
+José Mari,33,386
+José María Giménez,26,"2,042"
+Mariano,27,342
+Mika Màrmol,19,1
+Roger Martí,30,"2,115"
+Anthony Martial,25,490
+Martín,22,115
+Ander Martin,20,88
+Andrés Martín,22,186
+Carlos Martín,19,6
+Iván Martín,22,166
+Iñigo Martínez,30,"2,341"
+Javi Martínez,21,879
+Pablo Martínez,23,656
+Omar Mascarell,28,"2,493"
+Jaime Mata,32,672
+Luís Maximiano,22,"3,136"
+Borja Mayoral,24,"1,044"
+Jordi Mboula,22,434
+Óscar Melendo,23,990
+Gonzalo Melero,27,"1,692"
+Memphis,27,"1,851"
+Tomás Mendes,16,9
+Brais Méndez,24,"3,021"
+Édgar Méndez,31,"1,614"
+Ferland Mendy,26,"1,734"
+Fran Mérida,31,266
+Mikel Merino,25,"2,890"
+Martín Merquelanz,26,173
+Matt Miazga,26,833
+Miguel,21,829
+Éder Militão,23,"3,031"
+Luis Milla,26,"2,773"
+Pere Milla,28,"1,644"
+Santi Mina,25,"2,367"
+Óscar Mingueza,22,894
+Rafa Mir,24,"1,808"
+Jorge Miramón,32,"1,977"
+Juan Miranda,21,783
+Stefan Mitrović,31,"2,667"
+Luka Modrić,35,"2,032"
+Johan Mojica,28,"2,855"
+Jorge Molina,39,"1,966"
+Jon Moncayola,23,"2,915"
+Monchu,21,668
+Gonzalo Montiel,24,"1,066"
+Ángel Montoro,33,"1,331"
+Martín Montoya,30,518
+Jon Morcillo,22,54
+Alberto Moreno,29,"1,223"
+Álex Moreno,28,"2,404"
+Gerard Moreno,29,"1,191"
+Tete Morente,24,"1,632"
+Ilaix Moriba,18,818
+Manu Morlanes,22,"1,144"
+Loren Morón,27,563
+Loren Morón,27,4
+Cristhian Mosquera,17,212
+Toni Moya,23,"1,386"
+Iker Muniain,28,"2,785"
+Aihen Muñoz,23,"1,342"
+Jeison Murillo,29,"1,117"
+Vedat Muriqi,27,"1,438"
+Yunus Musah,18,"1,259"
+Shkodran Mustafi,29,658
+Nacho,31,"1,555"
+Roberto Navarro,19,199
+Ximo Navarro,31,"1,347"
+Jesús Navas,35,"1,786"
+Álvaro Negredo,35,"2,157"
+Neto,32,270
+Carlos Neva,25,"2,108"
+Saúl Ñíguez,26,201
+Fernando Niño,20,884
+Peru Nolaskoain,22,1
+Nolito,34,"1,384"
+Randy Nteka,23,"1,462"
+Unai Núñez,24,622
+Allan Nyom,33,244
+Jan Oblak,28,"3,420"
+Lucas Ocampos,27,"2,125"
+Lucas Olaza,27,295
+Oier Olazábal,31,135
+Brian Oliván,27,"2,189"
+Mathías Olivera,23,"2,803"
+Javier Ontiveros,23,39
+Pedro Ortiz,20,7
+Milutin Osmajić,22,257
+Jesús Owono,20,90
+Mikel Oyarzabal,24,"1,671"
+Fernando Pacheco,29,"3,053"
+Jon Pacheco,20,381
+Helibelton Palacios,28,"1,931"
+Isaac Palazón Camacho,26,"2,288"
+Daniel Parejo,32,"2,704"
+Raúl Parra,21,88
+Javier Pastore,32,525
+Gabriel Paulista,30,"1,592"
+Alfonso Pedraza,25,"1,701"
+Pedri,18,885
+Adrià Pedrosa,23,"2,720"
+Facundo Pellistri,19,672
+Rubén Peña,30,132
+Alberto Perea,30,777
+Iñigo Pérez,33,338
+Juan Pérez,25,180
+Kike Pérez,24,519
+Lucas Pérez,32,"1,266"
+Lucas Pérez,32,"1,060"
+Njegoš Petrović,22,918
+Alex Petxa,24,412
+Germán Pezzella,30,"1,988"
+Pablo Piatti,32,312
+Cristiano Piccini,28,322
+Tomás Pina,33,"1,444"
+Orbelín Pineda,25,99
+Yeremi Pino,18,"1,678"
+Gerard Piqué,34,"2,092"
+Ezequiel Ponce,24,667
+Pere Pons,28,"1,366"
+Portu,29,"1,590"
+Sergio Postigo,32,848
+Darío Poveda,24,380
+José Pozo,25,72
+Abdón Prats,28,641
+Alejandro Primo,17,90
+Javi Puado,23,"2,245"
+Marc Pubill,18,512
+Antonio Puertas,29,"2,261"
+Riqui Puig,21,487
+Yacine Qasmi,30,4
+Quini,31,"2,304"
+Dani Raba,25,89
+Dani Raba,25,26
+Uroš Račić,23,"1,206"
+Nemanja Radoja,28,"1,214"
+Rafinha,28,"1,050"
+Antonio Raillo,29,"1,530"
+Ivan Rakitić,33,"2,182"
+Jonás Ramalho,28,243
+Sandro Ramírez,26,"1,462"
+Raúl,20,1
+Lluís Recasens,19,45
+Manolo Reina,36,"1,890"
+Karim Rekik,26,"1,098"
+Álex Remiro,26,"3,150"
+Nico Ribaudo,20,"1,116"
+Diego Rico,28,"1,644"
+Sergio Rico,27,"1,260"
+Luis Rioja,27,"3,111"
+Rober,26,"2,010"
+Sergi Roberto,29,400
+Rubén Rochina,30,743
+Enzo Roco,28,"2,552"
+Rodri,21,881
+Kévin Rodrigues,27,435
+Ángel Rodríguez,34,"1,544"
+Óscar Rodríguez,23,943
+Óscar Rodríguez,23,417
+Dani Rodríguez,33,"2,832"
+Guido Rodríguez,27,"2,529"
+Rodrygo,20,"1,523"
+Leo Román,21,180
+Iván Romero,20,178
+Unai Ropero,19,12
+Rubén,20,150
+Aitor Ruibal,25,856
+Isma Ruiz,20,283
+Víctor Ruiz,32,"1,424"
+Gerónimo Rulli,29,"2,880"
+Franco Russo,26,"1,464"
+Mathew Ryan,29,270
+Youssouf Sabaly,28,788
+Salvi,30,"1,395"
+Fede San,24,830
+Oihan Sancet,21,"1,422"
+Antonio Sánchez,24,"1,616"
+Germán Sánchez,34,"2,299"
+Manu Sánchez,20,"2,257"
+Oier Sanjurjo,35,758
+Jesús Santiago,17,82
+Sergio Santos,20,11
+Alvaro Sanz,20,29
+Marcelo Saracchi,23,186
+Joan Sastre,24,258
+Esteban Saveljich,30,"1,700"
+Stefan Savić,30,"2,440"
+Valentino Scotta,19,1
+Aleksandar Sedlar,29,404
+Javier Serrano,18,68
+Nicolás Serrano,18,317
+Salva Sevilla,37,"1,507"
+David Silva,35,"1,720"
+Jonathan Silva,27,226
+Rui Silva,27,"1,964"
+Giuliano Simeone,18,1
+Unai Simón,24,"3,060"
+Antonio Sivera,24,277
+Rubén Sobrino,29,14
+Rubén Sobrino,29,"1,861"
+Alex Sola,22,41
+Augusto Solari,29,714
+Roberto Soldado,36,664
+Carlos Soler,24,"2,474"
+Son,27,"1,971"
+David Soria,28,"3,414"
+Alberto Soro,22,578
+Hugo Sotelo,17,2
+Damián Suárez,33,"2,711"
+Denis Suárez,27,"2,819"
+Luis Suárez,34,"1,835"
+Mario Suárez,34,712
+Suso,27,384
+Mamadou Sylla,27,394
+Mamadou Sylla,27,253
+Alexander Sørloth,25,"1,763"
+Tachi,23,239
+Renato Tapia,26,"1,412"
+Cristian Tello,29,819
+Nahuel Tenaglia,25,"1,073"
+Marc Tenas,20,54
+Marc-André ter,29,"3,150"
+David Timor,31,341
+Mircea Ţîrlea,21,15
+Raúl de,26,"2,914"
+Raúl Torrente,19,"1,282"
+Ferrán Torres,21,"1,412"
+Óliver Torres,26,"1,008"
+Pau Torres,24,"2,855"
+Roberto Torres,32,809
+Lucas Torró,27,"2,725"
+Adama Traoré,25,382
+Óscar Trejo,33,"2,007"
+Manu Trigueros,29,"2,178"
+Kieran Trippier,30,976
+Beñat Turrientes,19,207
+Samuel Umtiti,27,90
+Enes Ünal,24,"2,798"
+Myrto Uzuni,26,856
+Álvaro Vadillo,26,7
+Óscar Valentín,26,"2,569"
+Germán Valera,19,51
+Martin Valjent,25,"3,181"
+Jesús Vallejo,24,341
+Manu Vallejo,24,370
+Manu Vallejo,24,98
+Federico Valverde,23,"1,833"
+José Luis García,22,"2,012"
+Jesus Vazquez,18,813
+Kevin Vázquez,28,"1,334"
+Lucas Vázquez,30,"1,833"
+Gabriel Veiga,19,108
+Unai Vencedor Paris,20,"2,383"
+Gonzalo Verdú,32,"1,397"
+Mikel Vesga,28,"1,358"
+Rúben Vezo,27,"2,420"
+Aleix Vidal,31,"1,901"
+Nacho Vidal,26,"2,902"
+Dídac Vilà,32,203
+Tonny Vilhena,26,928
+Daniel Villahermosa,20,23
+Asier Villalibre,23,548
+Gonzalo Villar,23,298
+Vitolo,31,221
+Daniel Vivian,22,"1,986"
+Šime Vrsaljko,29,914
+Nikola Vukčević,29,118
+Daniel Wass,32,45
+Daniel Wass,32,"1,582"
+Iñaki Williams,27,"2,777"
+Nico Williams,19,"1,337"
+Okay Yokuşlu,27,465
+Okay Yokuşlu,27,140
+Joseba Zaldúa,29,"1,172"
+Oier Zarraga,22,"1,166"
+Luca Zidane,23,645
+Igor Zubeldia,24,"1,648"
+Martín Zubimendi,22,"2,591"
